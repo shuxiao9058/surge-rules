@@ -1,0 +1,61 @@
+USER-AGENT,%E5%8D%B3%E5%88%BB
+USER-AGENT,arrowio
+
+USER-AGENT,balls
+USER-AGENT,hide
+USER-AGENT,MegaWerewolf
+USER-AGENT,MicroMessenger
+USER-AGENT,Moke
+USER-AGENT,osee2unifiedRelease
+USER-AGENT,QQ,
+USER-AGENT,Speedtest
+USER-AGENT,TIM
+USER-AGENT,WeChat
+
+DOMAIN-SUFFIX,jumpserver.org
+DOMAIN-SUFFIX,h.jiya.net
+
+# DOMAIN-SUFFIX,signalling.guanjia.tcent.cn
+DOMAIN-SUFFIX,airsend-signalling.guanjia.tcent.cn
+DOMAIN-SUFFIX,tcylgslb.com
+DOMAIN,toca-sentry.17u.cn
+PROCESS-NAME,AdGuard
+
+# PROCESS-NAME,/Applications/starfish.app/Contents/Resources/bin/agent/tmancient
+PROCESS-NAME,tmancient
+
+PROCESS-NAME,/Applications/EasyConnect.app/Contents/MacOS/EasyConnect
+PROCESS-NAME,/opt/local/sbin/dnsmasq
+
+DOMAIN-SUFFIX,m.elongstatic.com
+DOMAIN-SUFFIX,vpn.guanjia.tcent.cn
+# DOMAIN-SUFFIX,m.elongstatic.com
+DOMAIN-SUFFIX,starfish-api.tcent.cn
+DOMAIN-SUFFIX,airsend-signalling.guanjia.tcent.cn
+DOMAIN-SUFFIX,tcoaapiout.tcent.cn
+DOMAIN-SUFFIX,toca-gw.17u.cn
+DOMAIN,toca-message.17u.cn
+# DOMAIN-SUFFIX,starfishvpn.handhand.net
+IP-CIDR,61.177.22.248/24,no-resolve
+# IP-CIDR,61.177.22.0/24,no-resolve
+
+IP-CIDR,58.211.111.28/32,no-resolve
+
+# LAN,debugging rules should place above this line
+# IP-CIDR,10.0.0.0/8,no-resolve
+IP-CIDR,100.64.0.0/10,no-resolve
+IP-CIDR,127.0.0.0/8,no-resolve
+IP-CIDR,172.16.0.0/12,no-resolve
+
+IP-CIDR,61.177.22.248/32,no-resolve
+# AND,((IP-CIDR,61.177.22.248/32), (NOT,((IP-CIDR,61.177.22.0/24)))),no-resolve
+AND,((IP-CIDR,10.0.0.0/8), (NOT,((IP-CIDR,10.179.16.0/24)))),no-resolve
+# AND,((IP-CIDR,10.0.0.0/8),(NOT,(IP-CIDR,10.179.16.0/24)))
+# AND,((NOT,((SRC-IP,192.168.1.110))),(DOMAIN, example.com)),DIRECT
+
+IP-CIDR,192.168.0.0/16,no-resolve
+IP-CIDR,169.254.0.0/16,no-resolve
+IP-CIDR,17.0.0.0/8,no-resolve
+# IP-CIDR,61.177.22.248/32,no-resolve
+
+GEOIP,CN

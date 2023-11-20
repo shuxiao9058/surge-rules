@@ -1,0 +1,106 @@
+# 同程
+DOMAIN-SUFFIX,shmao.net
+DOMAIN-SUFFIX,toca-sentry.17u.cn
+DOMAIN-SUFFIX,jumpserver.shmao.net
+DOMAIN-SUFFIX,vstlog.17usoft.com
+DOMAIN-SUFFIX,dc-tcyl-01.tcent.cn
+DOMAIN-SUFFIX,dc-tcyl-02.tcent.cn
+DOMAIN-SUFFIX,toca.17usoft.com
+DOMAIN-SUFFIX,tctmsignaling.handhand.net
+IP-CIDR,10.98.21.39/32,no-resolve
+IP-CIDR,10.100.10.70/32,no-resolve
+IP-CIDR,42.81.250.39/32,no-resolve
+IP-CIDR,183.60.225.225/32,no-resolve
+IP-CIDR,221.229.52.198/32,no-resolve
+IP-CIDR,10.189.200.32/32,no-resolve
+IP-CIDR,10.177.42.49/32,no-resolve
+DOMAIN-SUFFIX,file.40017.cn
+DOMAIN-SUFFIX,mail.ly.com
+DOMAIN-SUFFIX,git.17usoft.com
+DOMAIN-SUFFIX,flow.17usoft.com
+DOMAIN-SUFFIX,dcdb.17usoft.com
+DOMAIN-SUFFIX,bs.shmao.net
+DOMAIN-SUFFIX,auth.shmao.net
+DOMAIN-SUFFIX,airbs.shmao.net
+DOMAIN-SUFFIX,ops.shmao.net
+DOMAIN-SUFFIX,jenkins.shmao.net
+DOMAIN-SUFFIX,nextcloud.shmao.net
+DOMAIN-SUFFIX,argocdtrain.shmao.net
+DOMAIN-SUFFIX,jumpserver.shmao.net
+DOMAIN-SUFFIX,docs.shmao.net
+DOMAIN-SUFFIX,review.shmao.net
+DOMAIN-SUFFIX,s.ly.com
+
+# DOMAIN-SUFFIX,elongstatic.com
+DOMAIN,its.tcent.cn
+DOMAIN,nexus.17usoft.com
+DOMAIN-SUFFIX,printer.tcent.cn
+DOMAIN-SUFFIX,gstrain.17usoft.com
+DOMAIN-SUFFIX,tcmarketing.17usoft.com
+DOMAIN-SUFFIX,rainbow.tcwyun.com
+DOMAIN-SUFFIX,savior.elong.com
+DOMAIN-SUFFIX,corp.elong.com
+# DOMAIN-SUFFIX,fireeye3.elong.com
+DOMAIN-SUFFIX,jpebook.ly.com
+DOMAIN,ssh2.17usoft.com
+# DOMAIN,ncas06.tcent.cn
+DOMAIN,cw.17u.cn
+# DOMAIN-SUFFIX,guanjia.tcent.cn
+DOMAIN-SUFFIX,tccommon.17usoft.com
+# DOMAIN-SUFFIX,starfish-api.tcent.cn
+# DOMAIN-SUFFIX,airsend-signalling.guanjia.tcent.cn
+# DOMAIN-SUFFIX,hd-office-lb.outer.logicidc.tcylgslb.cn
+# DOMAIN-SUFFIX,tcylgslb.cn
+# DOMAIN-SUFFIX,tcent.cn
+# DOMAIN-SUFFIX,airsend-signalling.guanjia.tcent.cn
+DOMAIN-SUFFIX,tcoaresource.tcent.cn
+# DOMAIN-SUFFIX,tcoaapiout.tcent.cn   
+DOMAIN-SUFFIX,td.tcent.cn
+DOMAIN-SUFFIX,docs.tcent.cn
+DOMAIN-SUFFIX,it.tcent.cn
+DOMAIN-SUFFIX,hr.tcent.cn
+DOMAIN-SUFFIX,17usoft.com
+DOMAIN-SUFFIX,17usoft.net
+DOMAIN-SUFFIX,40017.cn
+# DOMAIN-SUFFIX,js.40017.cn
+DOMAIN-SUFFIX,tcwyun.com
+# DOMAIN-SUFFIX,handhand.net
+DOMAIN-SUFFIX,tccommon.17usoft.com
+DOMAIN-SUFFIX,ssh2.17usoft.com
+DOMAIN-SUFFIX,tcly.cn
+DOMAIN-SUFFIX,rainbow.tcwyun.com
+DOMAIN,szprint
+DOMAIN-SUFFIX,nexus.17usoft.com
+IP-CIDR,10.189.200.52/32,no-resolve
+# AND,((IP-CIDR,61.177.22.0/24), (NOT,((IP-CIDR,61.177.22.248/32))))
+# DOMAIN-SUFFIX,tcylgslb.cn
+DOMAIN-SUFFIX,home.tcent.cn
+IP-CIDR,47.110.127.250/32,no-resolve
+IP-CIDR,61.177.22.87/32,no-resolve
+IP-CIDR,61.177.22.55/32,no-resolve
+IP-CIDR,61.155.197.0/24,no-resolve
+IP-CIDR,10.100.10.135/32,no-resolve
+IP-CIDR,10.101.0.0/16,no-resolve
+IP-CIDR,10.177.0.0/16,no-resolve
+IP-CIDR,10.100.10.3/32,no-resolve
+IP-CIDR,10.100.10.4/32,no-resolve
+IP-CIDR,10.179.0.0/16,no-resolve
+IP-CIDR,10.176.0.0/16,no-resolve
+IP-CIDR,10.160.0.0/12,no-resolve
+IP-CIDR,10.181.22.80/32,no-resolve
+IP-CIDR,36.206.176.6/32,no-resolve
+IP-CIDR,10.108.4.0/24,no-resolve
+IP-CIDR,172.27.0.0/16,no-resolve
+# mail
+IP-CIDR,10.98.0.0/16,no-resolve 
+IP-CIDR,172.18.0.0/16,no-resolve
+IP-CIDR,172.25.0.0/16,no-resolve
+# tccommon.17usoft.com
+# IP-CIDR,172.18.2.15/24,no-resolve
+IP-CIDR,10.181.24.0/24,no-resolve
+IP-CIDR,10.188.0.0/16,no-resolve
+IP-CIDR,10.181.200.0/24,no-resolve
+# tc dns
+IP-CIDR,10.177.10.13/32,no-resolve
+IP-CIDR,10.177.10.12/32,no-resolve
+IP-CIDR,10.177.9.244/32,no-resolve

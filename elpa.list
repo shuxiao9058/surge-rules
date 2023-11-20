@@ -1,0 +1,10 @@
+# Emacs
+DOMAIN-SUFFIX,melpa.org
+DOMAIN-SUFFIX,gnu.org
+DOMAIN-SUFFIX,orgmode.org
+# paredit
+DOMAIN-SUFFIX,mumble.net
+# cmake-mode
+DOMAIN-SUFFIX,kitware.com
+# undo-tree
+DOMAIN-SUFFIX,dr-qubit.org

@@ -1,0 +1,7 @@
+#!name=atv
+#!desc=atv
+
+[General]
+dns-server = 192.168.199.253, fd00::fd 
+http-listen = 192.168.199.252:7890
+socks5-listen = 192.168.199.252:7891

@@ -1,0 +1,47 @@
+#!name=ly
+#!desc=ly Work
+#!system=mac
+
+[General]
+dns-server = %APPEND% 10.177.10.12,
+always-real-ip = *.17usoft.com,*.17usoft.net,*.shmao.net
+
+[URL Rewrite]
+^http://review\.shmao\.net https://review.shmao.net 302
+
+[Host]
+h.jiya.net = server:127.0.0.1:15353
+m.elongstatic.com = server:127.0.0.1:15353
+savior.elong.com = 127.0.0.1 # 行为分析
+td.tcent.cn = server:127.0.0.1:15353
+git.17usoft.com = server:127.0.0.1:15353
+flow.17usoft.com = server:127.0.0.1:15353
+dcdb.17usoft.com = server:127.0.0.1:15353
+*.corp.elong.com = server:127.0.0.1:15353
+train.17usoft.net = server:127.0.0.1:15353
+train.17usoft.com = server:127.0.0.1:15353
+tccommon.17usoft.com = server:127.0.0.1:15353
+mail.ly.com = server:127.0.0.1:15353
+adfs.ly.com = server:127.0.0.1:15353
+tcwyun.com = server:127.0.0.1:15353
+ops.shmao.net = 10.189.200.52
+jenkins.shmao.net = server:127.0.0.1:15353
+bs.shmao.net = server:127.0.0.1:15353
+*.shmao.net = server:127.0.0.1:15353
+ssh.shmao.net = 10.189.200.32
+toca-sentry.17u.cn = server:127.0.0.1:15353
+docs.tcent.cn = server:127.0.0.1:15353
+tvs.ops.17usoft.com = server:127.0.0.1:15353
+ssh2.17usoft.com = server:127.0.0.1:15353
+toca.17usoft.com = server:127.0.0.1:15353
+walle.fly.17usoft.com = server:127.0.0.1:15353
+*.elongstatic.com = server:127.0.0.1:15353
+file.40017.cn = server:127.0.0.1:15353
+*.ly.com = server:127.0.0.1:15353
+*.tcent.cn = server:127.0.0.1:15353
+*.17usoft.com = server:127.0.0.1:15353
+dc-tcyl-01.tcent.cn = server:127.0.0.1:15353
+dc-tcyl-02.tcent.cn = server:127.0.0.1:15353
+
+[MITM]
+hostname = %APPEND%  ops.shmao.net, *.17usoft.com, *.17usoft.net, review.shmao.net, 10.177.9.244*, toca-sentry.17u.cn
