@@ -16,6 +16,7 @@ IP-CIDR,10.189.200.32/32,no-resolve
 IP-CIDR,10.177.42.49/32,no-resolve
 DOMAIN-SUFFIX,file.40017.cn
 DOMAIN-SUFFIX,mail.ly.com
+DOMAIN-SUFFIX,mhr.ly.com
 DOMAIN-SUFFIX,git.17usoft.com
 DOMAIN-SUFFIX,flow.17usoft.com
 DOMAIN-SUFFIX,dcdb.17usoft.com
