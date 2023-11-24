@@ -23,6 +23,7 @@ train.17usoft.com = server:127.0.0.1:15353
 tccommon.17usoft.com = server:127.0.0.1:15353
 mail.ly.com = server:127.0.0.1:15353
 adfs.ly.com = server:127.0.0.1:15353
+mhr.ly.com = server:127.0.0.1:15353
 tcwyun.com = server:127.0.0.1:15353
 ops.shmao.net = 10.189.200.52
 jenkins.shmao.net = server:127.0.0.1:15353
