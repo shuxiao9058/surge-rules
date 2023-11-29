@@ -45,4 +45,4 @@ dc-tcyl-01.tcent.cn = server:127.0.0.1:15353
 dc-tcyl-02.tcent.cn = server:127.0.0.1:15353
 
 [MITM]
-hostname = %APPEND%  ops.shmao.net, *.17usoft.com, *.17usoft.net, review.shmao.net, 10.177.9.244*, toca-sentry.17u.cn
+hostname = %APPEND%  ops.shmao.net, *.17usoft.com, *.17usoft.net, review.shmao.net, 10.177.9.244*, toca-sentry.17u.cn, 10.177.9.244:11832, 10.177.9.244
