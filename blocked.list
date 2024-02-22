@@ -528,7 +528,7 @@ DOMAIN-SUFFIX,octopusgame.com
 DOMAIN-SUFFIX,er.run
 DOMAIN-SUFFIX,189smarthome.com:3389
 DOMAIN-SUFFIX,dbeaver.com
-DOMAIN-SUFFIX,xiaoeknow.com
+# DOMAIN-SUFFIX,xiaoeknow.com
 DOMAIN-SUFFIX,eltima.com
 DOMAIN-SUFFIX,pypa.io
 DOMAIN-SUFFIX,cdn.fwupd.org
