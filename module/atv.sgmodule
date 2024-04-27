@@ -3,5 +3,5 @@
 
 [General]
 dns-server = 192.168.199.253, fd00::fd 
-http-listen = 0.0.0.0:7890
-socks5-listen = 0.0.0.0:7891
+# http-listen = 0.0.0.0:7890
+# socks5-listen = 0.0.0.0:7891
