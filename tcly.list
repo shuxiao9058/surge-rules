@@ -15,6 +15,7 @@ IP-CIDR,42.81.250.39/32,no-resolve
 IP-CIDR,183.60.225.225/32,no-resolve
 IP-CIDR,221.229.52.198/32,no-resolve
 IP-CIDR,10.189.200.32/32,no-resolve
+IP-CIDR,10.189.200.61/32,no-resolve
 IP-CIDR,10.177.42.49/32,no-resolve
 DOMAIN-SUFFIX,file.40017.cn
 DOMAIN-SUFFIX,mail.ly.com
