@@ -1,6 +1,8 @@
 # tc
 # DOMAIN-SUFFIX,starfish-api.tcent.cn
 
+
+IP-CIDR,10.181.20.38/32,no-resolve
 DOMAIN,notify.tabnine.com
 
 DOMAIN,firebaselogging-pa.googleapis.com

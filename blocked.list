@@ -2,6 +2,8 @@ DOMAIN-SUFFIX,wakapi.dev
 DOMAIN-SUFFIX,meyering.net
 DOMAIN-SUFFIX,git.savannah.gnu.org
 
+DOMAIN-SUFFIX,starrocks.io
+
 DOMAIN-SUFFIX,syncthing.net
 
 DOMAIN-SUFFIX,rousi.zip
@@ -50,6 +52,7 @@ DOMAIN-SUFFIX,cloudnative-pg.io
 DOMAIN-SUFFIX,immich.app
 DOMAIN-SUFFIX,hdarea.club
 DOMAIN-SUFFIX,truenas.net
+DOMAIN-SUFFIX,truenasscale.com
 DOMAIN-SUFFIX,alpinelinux.org
 DOMAIN-SUFFIX,cleanclip.cc
 DOMAIN-SUFFIX,blog.jiya.net
@@ -70,6 +73,7 @@ DOMAIN-SUFFIX,axure.com,REJECT
 DOMAIN-SUFFIX,btmcheck.com
 DOMAIN-SUFFIX,mac89.com
 DOMAIN-SUFFIX,macw.com
+DOMAIN-SUFFIX,macked.app
 DOMAIN-SUFFIX,ctfile.com
 DOMAIN-SUFFIX,lanzouc.com
 DOMAIN-SUFFIX,camscanner.com
@@ -1442,6 +1446,7 @@ DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,hdchina.org
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,m-team.co
 DOMAIN-SUFFIX,52pt.site
 
 #
