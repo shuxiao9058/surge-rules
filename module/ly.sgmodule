@@ -11,6 +11,7 @@ always-real-ip = *.17usoft.com,*.17usoft.net,*.shmao.net
 
 [Host]
 walle.fly.17usoft.com = server:127.0.0.1:15353
+s.ly.com = server:127.0.0.1:15353
 m.elongstatic.com = server:127.0.0.1:15353
 savior.elong.com = 127.0.0.1 # 行为分析
 td.tcent.cn = server:127.0.0.1:15353
