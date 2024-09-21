@@ -2,6 +2,28 @@ DOMAIN-SUFFIX,wakapi.dev
 DOMAIN-SUFFIX,meyering.net
 DOMAIN-SUFFIX,git.savannah.gnu.org
 
+DOMAIN-SUFFIX,mcusercontent.com
+DOMAIN-SUFFIX,lux.camera
+DOMAIN-SUFFIX,mastodon.social
+DOMAIN-SUFFIX,imgccc.com
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,nicelee.top
+DOMAIN-SUFFIX,ossp.org
+DOMAIN-SUFFIX,mirrorservice.org
+DOMAIN-SUFFIX,artfiles.org
+DOMAIN-SUFFIX,cdnetworks.com
+DOMAIN-SUFFIX,mousefix.org
+DOMAIN-SUFFIX,numpy.org
+DOMAIN-SUFFIX,kivi8.top
+DOMAIN-SUFFIX,alexplescan.com
+DOMAIN-SUFFIX,emacs-china.org
+DOMAIN-SUFFIX,marginnote.com
+DOMAIN-SUFFIX,jiejingku.net
+DOMAIN-SUFFIX,accu-chek.com.cn
+DOMAIN-SUFFIX,peppernotes.top
+DOMAIN-SUFFIX,whatshub.top
+DOMAIN-SUFFIX,user-agents.net
+
 DOMAIN-SUFFIX,starrocks.io
 
 DOMAIN-SUFFIX,syncthing.net
