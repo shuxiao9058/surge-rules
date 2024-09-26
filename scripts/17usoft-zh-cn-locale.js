@@ -1,5 +1,9 @@
 
 let headers = $request.headers;
+let url = $request.url;
+let body = $request.body;
+
+let body_str;
 
 if (headers) {
     let cookie = headers['Cookie'];
@@ -21,9 +25,39 @@ if (headers) {
     $request.headers = headers;
 }
 
-const result = {};
-result.headers = headers;
+if (body) {
+    if (url.endsWith("/api/v1/datarulereport/getReportEchart")) {
+        let req_json = JSON.parse(body);
 
-$done(result);
+        let optimize = req_json.optimize;
+        if (optimize) {
+            const index = optimize.indexOf('useRedis');
+
+            if (index !== -1) {
+                optimize.splice(index, 1);
+                console.log('Removed "useRedis" from optimize array');
+            }
+        }
+
+        req_json.optimize = optimize;
+        body_str = JSON.stringify(req_json);
+    } else if (url.endsWith("/api/v1/dataruleEchart/getEchart")) {
+        const params = new URLSearchParams(body);
+        params.delete('useredis');
+        body_str = params.toString();
+    }
+}
+
+if (body_str) {
+    $done({
+        headers: headers,
+        body: body_str,
+    });
+} else {
+    $done({
+        headers: headers
+    });
+}
+
 
 
