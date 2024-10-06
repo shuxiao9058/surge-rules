@@ -149,7 +149,7 @@ DOMAIN-SUFFIX,aixifan.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alipayobjects.com
-DOMAIN-SUFFIX,amap.com
+# DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidupcs.com
