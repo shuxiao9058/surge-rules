@@ -1,3 +1,6 @@
+DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,play.itunes.apple.com
+
 // for iOS 11 app store
 DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-SUFFIX,cdn-apple.com

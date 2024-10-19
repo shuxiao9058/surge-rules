@@ -1,3 +1,23 @@
+DOMAIN-SUFFIX,codeberg.org
+DOMAIN-SUFFIX,xiaojianbang.vip
+DOMAIN-SUFFIX,modmyi.com
+DOMAIN-SUFFIX,frida.re
+DOMAIN-SUFFIX,dynastic.co
+DOMAIN-SUFFIX,chariz.com
+DOMAIN-SUFFIX,mairuan.com
+DOMAIN-SUFFIX,fbaipublicfiles.com
+DOMAIN-SUFFIX,notmuchmail.org
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,ludown.com
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,chrisdooks.com
+DOMAIN-SUFFIX,magit.vc
+DOMAIN-SUFFIX,mit.edu
+DOMAIN-SUFFIX,haskell.org
+DOMAIN-SUFFIX,list-manage.com
+
 DOMAIN-SUFFIX,wakapi.dev
 DOMAIN-SUFFIX,meyering.net
 DOMAIN-SUFFIX,git.savannah.gnu.org
@@ -116,7 +136,6 @@ DOMAIN-SUFFIX,buildiffuse.com
 DOMAIN-SUFFIX,i.imgur.com 
 
 DOMAIN-SUFFIX,mynetname.net
-DOMAIN-SUFFIX,testflight.apple.com 
 DOMAIN-SUFFIX,pstmn.io
 DOMAIN-SUFFIX,epg.pw
 DOMAIN-SUFFIX,112114.xyz
@@ -656,8 +675,6 @@ DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,spinnaker.io
 DOMAIN-SUFFIX,ones.ai
 DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,xp.apple.com
-DOMAIN-SUFFIX,play.itunes.apple.com
 DOMAIN,icloud-content.com
 DOMAIN-SUFFIX,omnigroup.com
 DOMAIN-SUFFIX,seafile.com
