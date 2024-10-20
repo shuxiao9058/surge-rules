@@ -135,7 +135,7 @@ DOMAIN-SUFFIX,1point3acres.com
 DOMAIN-SUFFIX,buildiffuse.com
 DOMAIN-SUFFIX,i.imgur.com 
 
-DOMAIN-SUFFIX,mynetname.net
+# DOMAIN-SUFFIX,mynetname.net
 DOMAIN-SUFFIX,pstmn.io
 DOMAIN-SUFFIX,epg.pw
 DOMAIN-SUFFIX,112114.xyz
@@ -658,7 +658,6 @@ DOMAIN-SUFFIX,xunii.com
 DOMAIN-SUFFIX,docplayer.net
 DOMAIN-SUFFIX,cfitsi.cn
 DOMAIN-SUFFIX,telecom-cafe.com
-DOMAIN-SUFFIX,docker.io
 IP-CIDR,193.182.111.141/32,no-resolve
 IP-CIDR,172.217.160.80/32,no-resolve
 IP-CIDR,74.125.204.82/32,no-resolve
