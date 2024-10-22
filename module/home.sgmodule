@@ -7,7 +7,7 @@ tun-included-routes = 192.168.199.12/32,192.168.199.111/32,192.168.199.103/32,19
 [Rule]
 IP-CIDR,192.168.199.12/32,🏡 Home,no-resolve # truenas
 IP-CIDR,192.168.199.253/32,🏡 Home,no-resolve # gw
-# IP-CIDR,192.168.199.8/32,🏡 Home,no-resolve # pve
+IP-CIDR,192.168.199.8/32,🏡 Home,no-resolve # TrueNAS
 IP-CIDR,192.168.199.10/32,🏡 Home,no-resolve # ha
 IP-CIDR,192.168.199.104/32,🏡 Home,no-resolve
 IP-CIDR,192.168.199.118/32,🏡 Home,no-resolve # debian
