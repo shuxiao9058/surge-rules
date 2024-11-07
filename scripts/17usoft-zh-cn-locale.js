@@ -25,6 +25,7 @@ if (headers) {
     $request.headers = headers;
 }
 
+/*
 if (body) {
     if (url.endsWith("/api/v1/datarulereport/getReportEchart")) {
         let req_json = JSON.parse(body);
@@ -47,6 +48,7 @@ if (body) {
         body_str = params.toString();
     }
 }
+*/
 
 if (body_str) {
     $done({
