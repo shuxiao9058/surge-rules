@@ -32,7 +32,10 @@ let env = $environment;
 
 let env_str = JSON.stringify(env);
 
-console.log("netowrk_str: " + env_str);
+// console.log("netowrk_str: " + env_str);
+
+// rule
+// AND,((DOMAIN,h.jiya.net), (NOT,((SCRIPT,rule-detect-atv-env))), (NOT,((SCRIPT,rule-detect-ipv6-env)))),🇺🇸 hysteria
 
 // let network_str = JSON.stringify(network);
 
