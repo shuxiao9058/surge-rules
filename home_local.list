@@ -1,6 +1,7 @@
+# -*- mode: conf; -*-
 IP-CIDR,192.168.199.12/32,no-resolve # truenas
 IP-CIDR,192.168.199.253/32,no-resolve # gw
-IP-CIDR,192.168.199.8/32,no-resolve # TrueNAS new ip 
+IP-CIDR,192.168.199.8/32,no-resolve # TrueNAS new ip
 IP-CIDR,192.168.199.10/32,no-resolve # ha
 IP-CIDR,192.168.199.104/32,no-resolve
 IP-CIDR,192.168.199.118/32,no-resolve # debian

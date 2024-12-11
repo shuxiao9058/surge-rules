@@ -1,3 +1,4 @@
+# -*- mode: conf; -*-
 #!name=ly
 #!desc=ly Work
 #!system=mac
@@ -13,7 +14,7 @@ always-real-ip = *.17usoft.com,*.17usoft.net,*.shmao.net
 walle.fly.17usoft.com = server:127.0.0.1:15353
 s.ly.com = server:127.0.0.1:15353
 m.elongstatic.com = server:127.0.0.1:15353
-savior.elong.com = 127.0.0.1 # 行为分析
+# savior.elong.com = 127.0.0.1 # 行为分析
 td.tcent.cn = server:127.0.0.1:15353
 git.17usoft.com = server:127.0.0.1:15353
 flow.17usoft.com = server:127.0.0.1:15353
@@ -154,7 +155,7 @@ www.seishin-spt.com = server:127.0.0.1:15353
 xici.cn = server:127.0.0.1:15353
 xici.com.cn = server:127.0.0.1:15353
 yfhr.tcent.cn = server:127.0.0.1:15353
-zktcms.com = server:127.0.0.1:15353
+# zktcms.com = server:127.0.0.1:15353
 zookeeper1.1.zk = server:127.0.0.1:15353
 
 [MITM]

@@ -1,3 +1,4 @@
+# -*- mode: conf; -*-
 DOMAIN-SUFFIX,codeberg.org
 DOMAIN-SUFFIX,xiaojianbang.vip
 DOMAIN-SUFFIX,modmyi.com
@@ -75,8 +76,8 @@ DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,tapd.cn
 DOMAIN-SUFFIX,okjson.app
 DOMAIN-SUFFIX,lemonsqueezy.com
-DOMAIN-SUFFIX,coros.com 
-DOMAIN-SUFFIX,recoverathletics.com 
+DOMAIN-SUFFIX,coros.com
+DOMAIN-SUFFIX,recoverathletics.com
 DOMAIN-SUFFIX,xukecheng.tech
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,trojanflare.one
@@ -124,7 +125,7 @@ DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,51cto.com
 DOMAIN-SUFFIX,accuweather.com
 
-DOMAIN-SUFFIX,mikrotik.com 
+DOMAIN-SUFFIX,mikrotik.com
 DOMAIN-SUFFIX,translate.goog
 DOMAIN-SUFFIX,shadowsocks.au
 DOMAIN-SUFFIX,juniper.net
@@ -133,7 +134,7 @@ DOMAIN-SUFFIX,qcloudimg.com
 DOMAIN-SUFFIX,adguard-dns.io
 DOMAIN-SUFFIX,1point3acres.com
 DOMAIN-SUFFIX,buildiffuse.com
-DOMAIN-SUFFIX,i.imgur.com 
+DOMAIN-SUFFIX,i.imgur.com
 
 # DOMAIN-SUFFIX,mynetname.net
 DOMAIN-SUFFIX,pstmn.io
@@ -858,10 +859,10 @@ DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,t.paypal.com
 DOMAIN-SUFFIX,paypalobjects.com
-DOMAIN-SUFFIX,paypal.me 
+DOMAIN-SUFFIX,paypal.me
 DOMAIN-SUFFIX,app-measurement.com
 
-# news 
+# news
 DOMAIN-SUFFIX,skynews.com
 DOMAIN-SUFFIX,sky.com
 DOMAIN-SUFFIX,particlenews.com

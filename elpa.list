@@ -1,3 +1,4 @@
+# -*- mode: conf; -*-
 # Emacs
 DOMAIN-SUFFIX,melpa.org
 DOMAIN-SUFFIX,gnu.org

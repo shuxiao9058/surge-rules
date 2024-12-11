@@ -1,3 +1,4 @@
+# -*- mode: conf; -*-
 # tc
 # DOMAIN-SUFFIX,starfish-api.tcent.cn
 
@@ -6560,7 +6561,7 @@ DOMAIN-SUFFIX,s1.download123.com
 DOMAIN-SUFFIX,click.xdeal.vn
 DOMAIN-SUFFIX,shopdunk.baomoi.com
 DOMAIN-SUFFIX,ads.ictnews.vn
-DOMAIN-SUFFIX,media.adtimaserver.vn 
+DOMAIN-SUFFIX,media.adtimaserver.vn
 DOMAIN-SUFFIX,bom.baomoi.com
 DOMAIN-SUFFIX,1phads.com
 DOMAIN-SUFFIX,go.pub2srv.com
@@ -6604,7 +6605,7 @@ DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,e-ltvp.inmobi.com
 DOMAIN-SUFFIX,config-ltvp.inmobi.com
 DOMAIN-SUFFIX,sdkm.w.inmobi.com
-DOMAIN-SUFFIX,d.appsdt.com 
+DOMAIN-SUFFIX,d.appsdt.com
 DOMAIN-SUFFIX,adchoice.com.vn
 # [ADM Android app]
 DOMAIN-SUFFIX,info.static.startappservice.com

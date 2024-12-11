@@ -1,3 +1,4 @@
+# -*- mode: conf; -*-
 # 同程
 DOMAIN-SUFFIX,shmao.net
 DOMAIN-SUFFIX,tcwyun.com
@@ -61,7 +62,7 @@ DOMAIN-SUFFIX,tccommon.17usoft.com
 # DOMAIN-SUFFIX,tcent.cn
 # DOMAIN-SUFFIX,airsend-signalling.guanjia.tcent.cn
 DOMAIN-SUFFIX,tcoaresource.tcent.cn
-# DOMAIN-SUFFIX,tcoaapiout.tcent.cn   
+# DOMAIN-SUFFIX,tcoaapiout.tcent.cn
 DOMAIN-SUFFIX,td.tcent.cn
 DOMAIN-SUFFIX,docs.tcent.cn
 DOMAIN-SUFFIX,it.tcent.cn
@@ -99,7 +100,7 @@ IP-CIDR,36.206.176.6/32,no-resolve
 IP-CIDR,10.108.4.0/24,no-resolve
 IP-CIDR,172.27.0.0/16,no-resolve
 # mail
-IP-CIDR,10.98.0.0/16,no-resolve 
+IP-CIDR,10.98.0.0/16,no-resolve
 IP-CIDR,172.18.0.0/16,no-resolve
 IP-CIDR,172.25.0.0/16,no-resolve
 # tccommon.17usoft.com
