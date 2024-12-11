@@ -1,7 +1,7 @@
 # -*- mode: conf; -*-
 # tc
 # DOMAIN-SUFFIX,starfish-api.tcent.cn
-
+DOMAIN,savior.elong.com
 
 IP-CIDR,10.181.20.38/32,no-resolve
 DOMAIN,notify.tabnine.com
