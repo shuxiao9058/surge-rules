@@ -1,4 +1,3 @@
-# -*- mode: conf; -*-
 IP-CIDR,192.168.199.12/32,no-resolve # truenas
 IP-CIDR,192.168.199.253/32,no-resolve # gw
 IP-CIDR,192.168.199.8/32,no-resolve # TrueNAS new ip
