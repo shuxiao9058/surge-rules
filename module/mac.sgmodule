@@ -1,0 +1,6 @@
+#!name=mac
+#!desc=mac
+
+[General]
+ipv6 = false
+ipv6-vif = disabled
