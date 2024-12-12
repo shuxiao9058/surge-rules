@@ -222,7 +222,7 @@ IP-CIDR,61.155.159.101/32,no-resolve
 IP-CIDR,172.16.7.251/32,no-resolve
 IP-CIDR,61.155.159.85/32,no-resolve
 IP-CIDR,172.18.0.0/16,no-resolve
-IP-CIDR,192.168.0.0/16,no-resolve
+# IP-CIDR,192.168.0.0/16,no-resolve
 IP-CIDR,172.21.31.0/24,no-resolve
 IP-CIDR,212.64.118.106/32,no-resolve
 IP-CIDR,222.45.17.30/32,no-resolve
