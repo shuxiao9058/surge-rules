@@ -114,9 +114,9 @@ IP-CIDR,10.177.10.12/32,no-resolve
 IP-CIDR,10.177.9.244/32,no-resolve
 
 # IP from /tmp/hyperroute.log
-DOMAIN-KEYWORD,.17u.
-DOMAIN-KEYWORD,.17ucoremail.
-DOMAIN-KEYWORD,.17usoft.
+# DOMAIN-KEYWORD,.17u.
+# DOMAIN-KEYWORD,.17ucoremail.
+# DOMAIN-KEYWORD,.17usoft.
 DOMAIN-SUFFIX,aigobo.cn
 DOMAIN-SUFFIX,anxinzuxi.com
 # DOMAIN-KEYWORD,.chebada.
@@ -143,11 +143,11 @@ DOMAIN-SUFFIX,lylend.com
 DOMAIN-SUFFIX,meta2cs.cn
 DOMAIN-SUFFIX,rxyec.com
 DOMAIN-SUFFIX,securitytcjf.com
-DOMAIN-KEYWORD,shmao.net
+# DOMAIN-KEYWORD,shmao.net
 DOMAIN-SUFFIX,tcair.com
 DOMAIN-SUFFIX,tcashfree.cn
-DOMAIN-KEYWORD,.tcent.
-DOMAIN-KEYWORD,.tcly.
+# DOMAIN-KEYWORD,.tcent.
+# DOMAIN-KEYWORD,.tcly.
 DOMAIN-SUFFIX,tcskdb.com
 DOMAIN-SUFFIX,tongcaitong.com
 DOMAIN-SUFFIX,tongchengcf.cn
