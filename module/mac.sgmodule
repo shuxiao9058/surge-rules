@@ -4,3 +4,6 @@
 [General]
 ipv6 = false
 ipv6-vif = disabled
+
+[SSID Setting]
+ROUTER:192.168.199.252 dns-server="192.168.199.253"
