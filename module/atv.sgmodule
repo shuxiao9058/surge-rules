@@ -2,7 +2,7 @@
 #!desc=atv
 
 [General]
-dns-server = 192.168.199.253,tls://8.8.8.8,tls://1.1.1.1,tls://dns.google:853,tcp://208.67.220.220:5353
+dns-server = 192.168.199.253,h3://8.8.8.8/dns-query,tcp://1.1.1.1,quic://dns.google:853,tcp://208.67.220.220:5353
 ipv6 = false
 ipv6-vif = disabled
 # http-listen = 0.0.0.0:7890
