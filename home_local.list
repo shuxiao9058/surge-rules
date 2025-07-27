@@ -9,6 +9,7 @@ IP-CIDR,192.168.199.1/32,no-resolve # Mikrotik
 IP-CIDR,192.168.199.2/32,no-resolve
 IP-CIDR,192.168.199.3/32,no-resolve
 IP-CIDR,192.168.199.4/32,no-resolve
+IP-CIDR,192.168.199.120/32,no-resolve # M1 Lan
 
 DOMAIN-SUFFIX,iptv.lan
 IP-CIDR,10.0.0.8/32,no-resolve # PVE
