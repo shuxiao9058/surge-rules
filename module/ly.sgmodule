@@ -14,6 +14,7 @@ walle.fly.17usoft.com = server:127.0.0.1:15353
 tccommonht.17usoft.com = server:127.0.0.1:15353
 oss.17usoft.com = server:127.0.0.1:15353
 s.ly.com = server:127.0.0.1:15353
+kpi.17usoft.com = server:127.0.0.1:15353
 toca-stream-api.17u.cn = server:127.0.0.1:15353
 m.elongstatic.com = server:127.0.0.1:15353
 # savior.elong.com = 127.0.0.1 # 行为分析
