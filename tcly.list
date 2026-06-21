@@ -1,6 +1,7 @@
 # 同程
 DOMAIN-SUFFIX,train.travel.17usoft.com
 DOMAIN-SUFFIX,shmao.net
+DOMAIN-SUFFIX,travelmonitor.17usoft.com
 DOMAIN,toca-stream-api.17u.cn
 DOMAIN-SUFFIX,tcwyun.com
 DOMAIN-SUFFIX,walle.fly.17usoft.com
@@ -79,7 +80,6 @@ DOMAIN-SUFFIX,40017.cn
 # DOMAIN-SUFFIX,js.40017.cn
 DOMAIN-SUFFIX,tcwyun.com
 # DOMAIN-SUFFIX,handhand.net
-DOMAIN-SUFFIX,tccommon.17usoft.com
 DOMAIN-SUFFIX,ssh2.17usoft.com
 DOMAIN-SUFFIX,tcly.cn
 DOMAIN-SUFFIX,rainbow.tcwyun.com
