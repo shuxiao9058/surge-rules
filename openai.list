@@ -35,6 +35,8 @@ DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN-WILDCARD,chatgpt-async-webps-prod-*-*.webpubsub.azure.com
 
+DOMAIN-SUFFIX,oaistatic.com
+
 # tracking
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,browser-intake-datadoghq.com
