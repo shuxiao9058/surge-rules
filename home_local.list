@@ -14,4 +14,4 @@ IP-CIDR,192.168.199.120/32,no-resolve # M1 Lan
 DOMAIN-SUFFIX,iptv.lan
 IP-CIDR,10.0.0.8/32,no-resolve # PVE
 IP-CIDR,192.168.199.6/32,no-resolve
-IP-CIDR,10.0.1.6/32,no-resolve // debian
+IP-CIDR,10.0.1.6/32,no-resolve # debian
