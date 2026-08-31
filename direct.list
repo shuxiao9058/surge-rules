@@ -53,7 +53,9 @@ AND,((IP-CIDR,10.0.0.0/8), (NOT,((IP-CIDR,10.179.16.0/24)))),no-resolve
 # AND,((IP-CIDR,10.0.0.0/8),(NOT,(IP-CIDR,10.179.16.0/24)))
 # AND,((NOT,((SRC-IP,192.168.1.110))),(DOMAIN, example.com)),DIRECT
 
-IP-CIDR,192.168.0.0/16,no-resolve
+AND,((IP-CIDR,192.168.0.0/16), (NOT,((IP-CIDR,192.168.199.0/24)))),no-resolve
+
+# IP-CIDR,192.168.0.0/16,no-resolve
 IP-CIDR,169.254.0.0/16,no-resolve
 IP-CIDR,17.0.0.0/8,no-resolve
 # IP-CIDR,61.177.22.248/32,no-resolve
