@@ -11,6 +11,14 @@ IP-CIDR,192.168.199.3/32,no-resolve
 IP-CIDR,192.168.199.4/32,no-resolve
 IP-CIDR,192.168.199.120/32,no-resolve # M1 Lan
 
+IP-CIDR,192.168.199.121/32,no-resolve
+IP-CIDR,192.168.199.230/32,no-resolve // ubuntu
+IP-CIDR,192.168.199.55/32,no-resolve
+IP-CIDR,192.168.199.26/32,no-resolve
+IP-CIDR,192.168.199.78/32,no-resolve
+IP-CIDR,192.168.199.197/32,no-resolve
+IP-CIDR,192.168.199.201/32,no-resolve
+
 DOMAIN-SUFFIX,iptv.lan
 IP-CIDR,10.0.0.8/32,no-resolve # PVE
 IP-CIDR,192.168.199.6/32,no-resolve
